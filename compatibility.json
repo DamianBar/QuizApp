@@ -1,6 +1,6 @@
 {
   "Latest": "1.0.0",
-  "LatestVersionInstallerUri": "https://google.com"
+  "LatestVersionInstallerUri": "https://google.com",
   "Compatibility": [
   {
     "V": "1.0",
