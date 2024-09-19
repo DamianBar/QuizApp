@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.0"
-  "compatibility": [
+  "Latest": "1.0.0"
+  "Compatibility": [
   {
     "V": "1.0",
     "CT": ["1.0"],
